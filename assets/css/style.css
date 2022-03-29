@@ -271,6 +271,10 @@ footer {
 
 /* ----------------------------------------Skills */
 
+#resume-icons {
+    color: #9b59b6;
+}
+
 .progress {
     position: relative;
     height: 25px;
